@@ -545,4 +545,4 @@ load_employees()
 # Start application
 root.mainloop()
 
-# Employee feature development
+# UI update feature
